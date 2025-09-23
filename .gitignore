@@ -1,0 +1,36 @@
+# Ignore build output
+**/bin/
+**/obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore logs
+**/logs/
+*.log
+*.txt
+
+# Ignore environment files
+*.env
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore NuGet packages
+*.nupkg
+# Ignore NuGet restore result
+project.lock.json
+# Ignore build results
+*.dll
+*.exe
+*.pdb
+
+# Ignore generated files
+*.GeneratedMSBuildEditorConfig.editorconfig
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db

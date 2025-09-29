@@ -1,0 +1,72 @@
+[
+  {
+    "Header": {
+      "Sender name or ID": {
+        "Analyzer name": "CN-6000",
+        "Software version": "00-30",
+        "Analyzer serial No": "A2901",
+        "Nickname": "CN-6000",
+        "PS code": "CV339763"
+      },
+      "ASTM Version No.": "E1394-97"
+    },
+    "Query": {
+      "Starting Range ID No.": {
+        "Rack No.": "000051",
+        "Tube position": "01",
+        "Sample ID No.": "350924001140",
+        "Sample ID No. attribute": "B"
+      },
+      "Universal Test ID": [
+        {
+          "Test code": "040",
+          "Parameter": "PT INN"
+        },
+        {
+          "Test code": "050",
+          "Parameter": "APTT PSL"
+        }
+      ],
+      "Nature of request day limit": "0",
+      "Beginning request date and time": "20250924001943"
+    },
+    "Termination": {
+      "Termination cord": "N"
+    }
+  },
+  {
+    "Header": {
+      "Sender name or ID": {
+        "Analyzer name": "CN-6000",
+        "Software version": "00-30",
+        "Analyzer serial No": "A2901",
+        "Nickname": "CN-6000",
+        "PS code": "CV339763"
+      },
+      "ASTM Version No.": "E1394-97"
+    },
+    "Query": {
+      "Starting Range ID No.": {
+        "Rack No.": "000052",
+        "Tube position": "01",
+        "Sample ID No.": "350924001140",
+        "Sample ID No. attribute": "B"
+      },
+      "Universal Test ID": [
+        {
+          "Test code": "040",
+          "Parameter": "PT INN"
+        },
+        {
+          "Test code": "050",
+          "Parameter": "APTT PSL"
+        }
+      ],
+      "Nature of request day limit": "0",
+      "Beginning request date and time": "20250924001943"
+    },
+    "Termination": {
+      "Termination cord": "N"
+    }
+  }
+]

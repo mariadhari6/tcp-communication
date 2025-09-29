@@ -1,0 +1,42 @@
+[
+  {
+    "Header": {
+      "ASTM Version No.": "E1394-97"
+    },
+    "Patient": {
+      "Patient ID No.": "8848848",
+      "Patient name": {
+        "First name": "MAO",
+        "Last name": "ZEDONG"
+      }
+    },
+    "Order": {
+      "Specimen ID": {
+        "Rack No.": "000051",
+        "Tube Position": "01",
+        "Sample ID No.": "350924001140",
+        "Sample ID No. attribute": "B"
+      },
+      "Universal Test ID": [
+        {
+          "Test code": "051",
+          "Parameter": "051"
+        },
+        {
+          "Test code": "044",
+          "Parameter": "044"
+        },
+        {
+          "Test code": "041",
+          "Parameter": "041"
+        }
+      ],
+      "Priority": "R",
+      "Requested/order date and time": "20250924001956",
+      "Action code": "N"
+    },
+    "Termination": {
+      "Termination cord": "N"
+    }
+  }
+]
